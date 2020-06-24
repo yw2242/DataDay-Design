@@ -1,0 +1,66 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+header {
+    background-color: #eb7777;
+    height: 50px;
+    margin: 0;
+}
+
+
+#logo {
+    color: white;
+    margin: 5%;
+}
+
+
+.right {
+    float: right;
+}
+
+
+#search {
+    border-radius: 20px;
+    margin: 5% 4% 0% -30%;
+    padding: 1% 2.5%;
+}
+
+#login {
+    margin: 5% 0%;
+    color: white;
+}
+
+
+.section-1 {
+    background-color: bisque;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    color: white;
+    margin: 0;
+}
+
+
+button {
+    border-radius: 15px 0 15px 0;
+    border: none;
+    background-color: #eb7777;
+    padding: 0.5% 2%;
+    color: white;
+    margin: 5% auto auto 5%;
+    box-shadow: 0 2px #979393a8;
+}
+
+
+#mission {
+    
+}
+
+
